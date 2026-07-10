@@ -1,14 +1,11 @@
 @import "tailwindcss";
-@import "tailwindcss/preflight"
 /* =============================================================================
    INDEX.CSS - Sistema di Controllo Energetico Intelligente
    Stile: Moderno, Pulito, Enterprise (Ispirato a Linear, Vercel, Stripe)
    Palette: Sage (#8CA386) + Warm (beige/caldi)
    ============================================================================= */
 
-@tailwind base;
-@tailwind utilities;
-@tailwind utilities;
+
 
 /* =============================================================================
    BASE STYLES + TRANSIZIONI GLOBALI
